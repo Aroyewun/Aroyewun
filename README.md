@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aroyewun
+- 👋 Hi, I’m Anuoluwapo Hassan
 - 👀 I’m interested in acquiring IT skills
 - 🌱 I’m currently learning Data analysis and IoT
 - 💞️ I’m looking to collaborate on ...
